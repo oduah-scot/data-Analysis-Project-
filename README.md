@@ -22,8 +22,7 @@ Order quantity between 301-1000 falls under 'High End' orders
 #### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_pu8TfLfGd9fZo75DR_1683623970640_completion_certificate.pdf)
 
 <h2>Practical Skills Developed</h2>
-
-<b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Storytelling | Data Visualization | Presentations | Communication | Public Speaking </b> 
+<b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Pivot Table | Data Visualization | Presentations | Communication | Public Speaking </b> 
 
 <h2>Tools Used</h2>
 
@@ -46,14 +45,16 @@ Contents, Reactions and Reactions types Datasets: <br/>
 <img src="https://i.imgur.com/HsipZmz.png" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />
-Analyse and find the the two witness . <br/>
+ Merge all datasets into one excel sheet. Group columns according to common columns. Cleane data by removing rows that have values which are missing, changing the data type of some values within a column, and removing columns which are not relevant to this task. Model data by looking for the sales price and "if" to convert NGN and Rand to Dollas. 
+  . <br/>
 
-  <img src="https://i.imgur.com/ybtekSy.png" height="80%" width="80%" alt="sql analysis steps"/>
-  <img src="https://i.imgur.com/GTCJFBi.png" height="80%" width="80%" alt="sql analysis steps"/>
+  <img src="https://i.imgur.com/I03STZO.png" height="80%" width="80%" alt="sql analysis steps"/>
+  <img src="https://i.imgur.com/SlrScB6.png" height="80%" width="80%" alt="sql analysis steps"/>
+  
 <br />
 <br />
- Getting the witness interview for analysis : <br/>
-<img src="https://i.imgur.com/i1XJepW.png" height="80%" width="80%" alt="sql analysis steps"/>
+ Use "IF" asa conditon to convert NGN and Rand to Dollas. : : <br/>
+<img src="https://i.imgur.com/6SejpJy.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
 Analyse witness interview and finding the killer.:  <br/>

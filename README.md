@@ -9,17 +9,9 @@ Project Questions
 6. show the 10 worst perfroming delivery agents
 7. most popular states by sales channel 
 8. 10 VIP customers
-9. percentage of sales volume by sales channel and country
-10. Display sales figure by order category
 NOTE: You need to derive a column that shows the sales figure.
 The unit price column is in naira (NGN) and south african rand (ZAR), depending on the country the sales was made. You might need to convert to dollars as all analysis should be in dollars
 The exchange rate is in the Details sheet
-You need to generate another column that shows order category to answer question 10 above using this rule:
-Order quantity between 0-100 falls under 'Low End' orders
-Order quantity between 101-300 falls under 'Mid End' orders
-Order quantity between 301-1000 falls under 'High End' orders
-
-#### [<h2>Certificate of Completion</h2>](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_pu8TfLfGd9fZo75DR_1683623970640_completion_certificate.pdf)
 
 <h2>Practical Skills Developed</h2>
 <b> VLOOKUP | Teamwork | Strategy | Project Planning | Data Understanding | Data Modeling | Data Analysis | Pivot Table | Data Visualization | Presentations | Communication | Public Speaking </b> 
@@ -89,13 +81,7 @@ A pivot table showing 10 VIP customers.:  <br/>
 <img src="https://i.imgur.com/qbuVoCd.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-A pivot table showing most popular states by sales channel .:  <br/>
-<img src="https://i.imgur.com/3Xl6vmV.png" height="80%" width="80%" alt="sql analysis steps"/>
-<br />
-<br />
-A pivot table showing most popular states by sales channel .:  <br/>
-<img src="https://i.imgur.com/3Xl6vmV.png" height="80%" width="80%" alt="sql analysis steps"/>
-<br />
+
 
 <!--
  ```diff

@@ -4,7 +4,7 @@ Project Questions
 1. create a chart to show the 10 least loyal customers
 2. What percentage of sales come from each outlet type
 3. What producers account for the 5 lowest sales figure
-4. Averae order quantity per category group
+4. Average order quantity per category group
 5. make a chart showing the shipping status by outlet type
 6. show the 10 worst perfroming delivery agents
 7. most popular states by sales channel 
@@ -45,7 +45,7 @@ Contents, Reactions and Reactions types Datasets: <br/>
 <img src="https://i.imgur.com/HsipZmz.png" width="100%" alt="sql Analysis Steps"/>
 <br />
 <br />
- Merge all datasets into one excel sheet. Group columns according to common columns. Cleane data by removing rows that have values which are missing, changing the data type of some values within a column, and removing columns which are not relevant to this task. Model data by looking for the sales price and "if" to convert NGN and Rand to Dollas. 
+Merge all datasets into one excel sheet. Group columns according to common columns. Cleane data by removing rows that have values which are missing, changing the data type of some values within a column, and removing columns which are not relevant to this task. Model data by looking for the sales price and "if" to convert NGN and Rand to Dollas. 
   . <br/>
 
   <img src="https://i.imgur.com/I03STZO.png" height="80%" width="80%" alt="sql analysis steps"/>
@@ -53,23 +53,48 @@ Contents, Reactions and Reactions types Datasets: <br/>
   
 <br />
 <br />
- Use "IF" asa conditon to convert NGN and Rand to Dollas. : : <br/>
+ Use "IF" as a conditon to convert NGN and Rand to Dollas. : : <br/>
 <img src="https://i.imgur.com/6SejpJy.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-Analyse witness interview and finding the killer.:  <br/>
-<img src="https://i.imgur.com/CnhsXR8.png" height="80%" width="80%" alt="sql analysis steps"/>
-<img src="https://i.imgur.com/rmBh8GQ.png" height="80%" width="80%" alt="sql analysis steps"/>
+create a chart through pivot to show the 10 least loyal customers.:  <br/>
+<img src="https://i.imgur.com/ccCPv3z.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-finding the killer through analysis.:  <br/>
-<img src="https://i.imgur.com/kRsbunt.png" height="80%" width="80%" alt="sql analysis steps"/>
-<img src="https://i.imgur.com/xfMnKJT.png" height="80%" width="80%" alt="sql analysis steps"/>
+create pivot table on What percentage of sales come from each outlet type.: 
+<img src="https://i.imgur.com/QFr1MPT.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 <br />
-Result collected through Insights analysis drawn from the cleaned data was used to find the killer through sql anaysis.:  <br/>
-<img src="https://i.imgur.com/LN6oL8k.png" height="80%" width="80%" alt="sql analysis steps"/>
-<img src="https://i.imgur.com/RCia3rE.png" height="80%" width="80%" alt="sql analysis steps"/>
+show pivot table on What producers account for the 5 lowest sales figure.: 
+<img src="https://i.imgur.com/mak4rbC.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing Average order quantity per category group.:  <br/>
+<img src="https://i.imgur.com/Ai91ifh.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot chart showing the shipping status by outlet type.:  <br/>
+<img src="https://i.imgur.com/GvmDJYm.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing the 10 worst perfroming delivery agents.:  <br/>
+<img src="https://i.imgur.com/07ubxzg.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing most popular states by sales channel .:  <br/>
+<img src="https://i.imgur.com/3Xl6vmV.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing 10 VIP customers.:  <br/>
+<img src="https://i.imgur.com/qbuVoCd.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing most popular states by sales channel .:  <br/>
+<img src="https://i.imgur.com/3Xl6vmV.png" height="80%" width="80%" alt="sql analysis steps"/>
+<br />
+<br />
+A pivot table showing most popular states by sales channel .:  <br/>
+<img src="https://i.imgur.com/3Xl6vmV.png" height="80%" width="80%" alt="sql analysis steps"/>
 <br />
 
 <!--
